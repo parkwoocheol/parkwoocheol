@@ -1,23 +1,13 @@
-### I'm mobile software engineer ✨
+### I am an Android developer dedicated to building scalable and evolving services.
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FParkWoocheol)](https://github.com/ParkWoocheol)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mrparkwc@gmail.com)](mailto:mrparkwc@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parkwoocheol/)](https://www.linkedin.com/in/parkwoocheol/)
-[![Resume](https://img.shields.io/static/v1?label=Woocheol&message=Resume&color=blue&link=https://parkwoocheol.github.io/resume/)](https://parkwoocheol.github.io/resume/)
+## About Me
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ParkWoocheol&theme=vue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+I am an Android developer who has experienced every phase of a service—from development to launch and operation—at a startup.  
 
-<!--
-**ParkWoocheol/ParkWoocheol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I delve deeply into problem-solving and enjoy collaborating with my team during code reviews to discover better solutions. I focus on writing clean, readable, and predictable code, and this approach has helped me build enduring services.  
 
-Here are some ideas to get you started:
+Even amidst the rapid changes in the mobile market, I continually learn new technologies to develop services that offer greater convenience to users.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also cherish the time spent with colleagues over a ☕ cup of coffee, discussing our services and growing together as we create even better solutions.  
+
+---
