@@ -8,6 +8,6 @@ I delve deeply into problem-solving and enjoy collaborating with my team during 
 
 Even amidst the rapid changes in the mobile market, I continually learn new technologies to develop services that offer greater convenience to users.  
 
-I also cherish the time spent with colleagues over a ☕ cup of coffee, discussing our services and growing together as we create even better solutions.  
+I also cherish the time spent with colleagues over a cup of coffee, discussing our services and growing together as we create even better solutions.  
 
 ---
