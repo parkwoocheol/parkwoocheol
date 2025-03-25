@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am an Android developer who has experienced every phase of a service—from development to launch and operation—at a startup.  
+I am an Android developer who has experienced every phase of a service from development to launch and operation—at a startup.  
 
 I delve deeply into problem-solving and enjoy collaborating with my team during code reviews to discover better solutions. I focus on writing clean, readable, and predictable code, and this approach has helped me build enduring services.  
 
